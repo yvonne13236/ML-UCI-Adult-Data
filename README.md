@@ -1,2 +1,2 @@
 # Machine-Learning-
-A bunch of ml algorithms 
+Experiments with algorithms 
